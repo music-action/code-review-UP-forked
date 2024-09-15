@@ -4,7 +4,8 @@ Change the code in hole 1 to be identical to the code in hole 2; implementation 
 
 ## Refactorings
 
-- Tackle code comments, long method and large class
+- found a silly named variable
+- Tackle code comments, found one long method in a too large class ()
   - Extract method
 
 ## Tips
